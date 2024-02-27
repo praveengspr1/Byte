@@ -27,10 +27,6 @@ import java.util.logging.FileHandler;
 
 
 public class BestFramePicker {
-	
-	
-	
-	
 	private String authToken;
 	@BeforeClass
 	public void loginAndGetToken() {
