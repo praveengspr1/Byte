@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2370" started-at="2024-01-23T11:31:06 IST" finished-at="2024-01-23T11:31:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2370" started-at="2024-01-23T11:31:06 IST" finished-at="2024-01-23T11:31:08 IST">
+      <class name="com.byte_.qa.test.SegmentationTest">
+        <test-method status="PASS" signature="loginAndGetToken()[pri:0, instance:com.byte_.qa.test.SegmentationTest@7a187f14]" name="loginAndGetToken" is-config="true" duration-ms="2121" started-at="2024-01-23T11:31:06 IST" finished-at="2024-01-23T11:31:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndGetToken -->
+        <test-method status="PASS" signature="testImageSegmentation()[pri:0, instance:com.byte_.qa.test.SegmentationTest@7a187f14]" name="testImageSegmentation" duration-ms="224" started-at="2024-01-23T11:31:08 IST" finished-at="2024-01-23T11:31:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImageSegmentation -->
+      </class> <!-- com.byte_.qa.test.SegmentationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
